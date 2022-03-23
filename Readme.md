@@ -11,25 +11,8 @@ pigment clay is now a fascinating world of foundation, rouge, lipstick, blush, m
 caramba!
 
 
-
-
-
-### About this project: :raised_hands:
-
-> This is a team project, built by us in the Construct Week - Unit 3 at Masai School.
-
----
-
-#### Presentation Video: 
-- **[Checkout The Demo Video On drive](https://drive.google.com/file/d/1AttcgzNNvK4M2Az6f53g72YelP7pEUcD/view)**
-
----
 #### Demo Deployed link:
 - **[Checkout this deployed link](https://purplle-web-clone.netlify.app/)**
----
- #### Project Blog: 
-- **[Checkout The  Project Blog](https://shwetamane13.hashnode.dev/cloning-the-purplle-website)** 
-
 ---
 
 ### Our Team Members :heart:
@@ -38,7 +21,7 @@ caramba!
 - **[Shweta Mane](https://github.com/ShwetaMane13)**
 - **[Karunesh Ranjan](https://github.com/Karu555)**
 - **[Shivam Sharma](https://github.com/Shivamkakda)**
-- **[Vikas Khambra](https://github.com/vkkhambra786)**
+- **[Rishab Bansal](https://github.com/rishab-bansal1)**
 
 
 ---
