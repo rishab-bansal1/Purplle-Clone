@@ -66,7 +66,7 @@ First you have  to go to the signup page and create a new account. Then you will
 ---
 - **Home Page**
 
-![Landing Page](https://github.com/MOHAMMADM-ASRAF/Purplle-Clone/blob/master/screenshots/banner.png)
+![Landing Page](./screenshots/banner.png)
 
 ---
 - **Navbar UI**
