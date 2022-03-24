@@ -71,56 +71,56 @@ First you have  to go to the signup page and create a new account. Then you will
 ---
 - **Navbar UI**
 
-![Landing Page Subcategory](https://github.com/MOHAMMADM-ASRAF/Purplle-Clone/blob/master/screenshots/nav1.png)
+![Landing Page Subcategory](./screenshots/nav1.png)
 
 ---
 - **Navbar UI 2**
 
-![Landing Page Brands Category](https://github.com/MOHAMMADM-ASRAF/Purplle-Clone/blob/master/screenshots/nav2.png)
+![Landing Page Brands Category](./screenshots/nav2.png)
 
 ---
 - **Sign-Up Page**
 
-![Sign Up Page](https://github.com/MOHAMMADM-ASRAF/Purplle-Clone/blob/master/screenshots/signup.png)
+![Sign Up Page](./screenshots/signup.png)
 
 ---
 - **Sign-In Page**
 
-![Sign In Page](https://github.com/MOHAMMADM-ASRAF/Purplle-Clone/blob/master/screenshots/signin.png)
+![Sign In Page](./screenshots/signin.png)
 
 
 ---
 - **Product Category Page**
 
-![Product Category Page](https://github.com/MOHAMMADM-ASRAF/Purplle-Clone/blob/master/screenshots/allproducts.png)
+![Product Category Page](./allproducts.png)
 
 ---
 
 - **Product Details Page**
-![Product Details Page](https://github.com/MOHAMMADM-ASRAF/Purplle-Clone/blob/master/screenshots/productdetaillpage.png)
+![Product Details Page](./screenshots/productdetaillpage.png)
 
 ---
 - **Cart Page**
 
-![Cart Page](https://github.com/MOHAMMADM-ASRAF/Purplle-Clone/blob/master/screenshots/cart.png)
+![Cart Page](./screenshots/cart.png)
 
 ---
 
 
 - **Checkout Page**
 
-![Checkout Page](https://github.com/MOHAMMADM-ASRAF/Purplle-Clone/blob/master/screenshots/delivery.png)
+![Checkout Page](./screenshots/delivery.png)
 
 ---
 - **Payment Page**
 
-![Payment Page](https://github.com/MOHAMMADM-ASRAF/Purplle-Clone/blob/master/screenshots/payment.png)
+![Payment Page](./screenshots/payment.png)
 
 ---
 
 - **Footer Section**
 
-![Order Successful Page](https://github.com/MOHAMMADM-ASRAF/Purplle-Clone/blob/master/screenshots/footer.png)
+![Order Successful Page](./screenshots/footer.png)
 
 
 ---
