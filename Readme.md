@@ -5,11 +5,11 @@
 ---
 # Welcome :wave:
 ---
-### About Purplle:
-> Meet Purplle,India's No.1 Beauty DestiNation! A powerful concoction of technology and beauty. A portal which delivers the best of both the worlds.Makeup has been around for over a hundred thousand years, and beauty is only evolving. What started with red
-pigment clay is now a fascinating world of foundation, rouge, lipstick, blush, mascara, eye shadow, eye liner, eye
-caramba!
+### Project description:
+We  build a purplle clone using Html, CSS, JS, and MongoDB, we completed this project in 6 days.
+We aimed to replicate the basic flow of this website and cover some important features this huge website contains. We cloned the home page, all products page, the product page, the cart, the sign-in and signup page and, the checkout page.
 
+We divided the responsibilities within all of the members and We tried our best to do the entire project and we got to learn a lot during this week. We split the work based on our strengths and weaknesses. We coordinated and overcame all the obstacles and we are happy about that.
 
 #### Demo Deployed link:
 - **[Checkout this deployed link](https://purplle-web-clone.netlify.app/)**
